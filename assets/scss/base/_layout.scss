@@ -1,0 +1,8 @@
+@include media(">=lg") {
+  .container {
+    max-width: 1185px !important;
+  }
+  .container--fluid {
+    max-width: 100% !important;
+  }
+}
